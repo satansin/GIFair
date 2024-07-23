@@ -1,5 +1,5 @@
 # Adversarial Learning of Group and Individual Fair Representations (GIFair)
-Supplementary material for Adversarial Learning of Group and Individual Fair Representations.
+This is the code repository of our paper [Adversarial Learning of Group and Individual Fair Representations](https://link.springer.com/chapter/10.1007/978-981-97-2242-6_15). Please find the technical version of the paper containing the supplementary materials here.
 
 ## Installation
 ### Requirements
