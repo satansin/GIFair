@@ -44,3 +44,5 @@ The evaluation result will be saved in `evaluated/`. One example of the evaluati
 In this example, we can easily read the value of each measurement used in our experiments.
 
 ### Run All Experiments
+
+To run all our experiment instances, you could directly execute our script files [`linux_gifair.sh`](linux_gifair.sh) (for UNIX-based system) or [`win_gifair.bat`](win_gifair.bat) (for Window).
